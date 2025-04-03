@@ -1,0 +1,8 @@
+openai
+openai-agents
+requests
+googlemaps
+pydantic>=2.0
+python-dotenv
+markdown
+typing-extensions
