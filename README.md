@@ -85,4 +85,4 @@ travel_assistant.log
 
 ## 👨‍💻 Author
 
-Created by [Domenico Radano](https://github.com/doradame) — sysadmin, developer & writer at [MojaLab](https://mojalab.it).
+Created by [Doradame](https://github.com/doradame) — sysadmin, developer & writer at [MojaLab](https://mojalab.it).
