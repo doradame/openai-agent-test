@@ -46,7 +46,7 @@ source .venv/bin/activate  # On Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-### 4. Create a `.env` file
+### 4. Modify the `.env` file
 
 ```env
 OPENAI_API_KEY=your_openai_key
