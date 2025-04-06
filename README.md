@@ -1,14 +1,17 @@
-# 🧳 TravelAssistant AI
+# 🧳 TravelAssistant AI with OpenAI Agents SDK
 
 A smart travel-planning assistant that helps you prepare a trip within the next 24 hours. Powered by OpenAI, Google Places, OpenWeatherMap, and WebSearch, it gives you:
 
-- Detailed weather forecast
-- Personalized places of interest (indoor/outdoor based on conditions)
-- Recent local events, advisories, and travel updates
-- Structured, readable Markdown output
-- Input and output safety guardrails
+- Detailed weather forecast  
+- Personalized places of interest (indoor/outdoor based on conditions)  
+- Recent local events, advisories, and travel updates  
+- Structured, readable Markdown output  
+- Input and output safety guardrails  
 
-Built with love for learning and sharing on [MojaLab](https://mojalab.it) 💡
+👉 **[Try the live demo](https://mojalab.com/ask-mojalab-ai-plan-your-next-24-hour-trip-2/)**  
+📖 **[Read the full article on how it works](https://mojalab.com/getting-started-with-openai-agents-sdk-building-a-simple-travel-agent/)**  
+
+Built with love for learning and sharing on [MojaLab](https://mojalab.com) 💡
 
 ---
 
